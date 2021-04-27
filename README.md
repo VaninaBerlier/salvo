@@ -17,7 +17,7 @@
 <p>Utilización de Maven 3.6.3</p>
 </li>
 <li>
-<p>Base de Datos SQL H2 Hibernate </p>
+<p>H2 Hibernate </p>
 </li>
 <li>
 <p>FrontEnd desarrollado en HTML5, CSS3 y Javascript</p>
